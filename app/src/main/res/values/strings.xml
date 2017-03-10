@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">What Animal Are You?</string>
+
+    <string name="next_question">Next</string>
+    <string name="play_again">Play Again</string>
+    <string-array name="statements">
+        <item>Engaging in social activities is what life is about.</item>
+        <item>I like taking things slowly.</item>
+        <item>Meat is good for you.</item>
+        <item>Solitude is a virtue.</item>
+        <item>Being playful is the way forward.</item>
+    </string-array>
+    <string-array name="animals">
+        <item>dolphin</item>
+        <item>elephant</item>
+        <item>tiger</item>
+        <item>redpanda</item>
+        <item>monkey</item>
+    </string-array>
+
+    <string name="strongly_agree">Strongly Agree</string>
+    <string name="agree">Agree</string>
+    <string name="not_sure">Not Sure</string>
+    <string name="disagree">Disagree</string>
+    <string name="strongly_disagree">Strongly Disagree</string>
+
+</resources>
